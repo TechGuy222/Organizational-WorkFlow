@@ -1,0 +1,21 @@
+2024-12-09 11:55:32,598 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-09 11:56:47,505 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Project:Organizational_Workflow:0.0.1-SNAPSHOT @ D:\Organizational_Workflow\Organizational_Workflow\pom.xml.
+2024-12-09 11:56:48,595 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Organizational_Workflow/src/main/java
+2024-12-09 11:56:48,595 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Organizational_Workflow/src/main/resources
+2024-12-09 11:56:48,598 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Organizational_Workflow/src/main/resources
+2024-12-09 11:56:48,601 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Organizational_Workflow/src/test/java
+2024-12-09 11:56:48,601 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Organizational_Workflow/src/test/resources
+2024-12-09 11:56:49,167 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-12-09 11:56:51,014 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-09 11:56:51,050 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-09 11:56:51,056 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Organizational_Workflow\Organizational_Workflow\src\test\resources
+2024-12-09 11:57:10,363 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-09 11:57:10,367 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-09 11:57:10,370 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Organizational_Workflow\Organizational_Workflow\src\test\resources
+2024-12-09 12:07:57,457 [Worker-5: https://download.eclipse.org/webtools/downloads/drops/R3.35.0/R-3.35.0-20240825085431/repository/plugins/org.eclipse.wst.common.frameworks.ui_1.3.0.v202308161955.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2024-12-09 12:07:57,457 [Worker-24: https://download.eclipse.org/webtools/downloads/drops/R3.35.0/R-3.35.0-20240825085431/repository/plugins/org.eclipse.wst.common.emfworkbench.integration_1.3.0.v202308161955.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2024-12-09 12:17:57,240 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-09 12:17:57,247 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-09 12:17:57,250 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Organizational_Workflow\Organizational_Workflow\src\test\resources
+2024-12-09 12:17:57,771 [Worker-14: https://download.eclipse.org/stats/releases/2023-09/org.eclipse.wildwebdeveloper.embedder.node.win32.x86_64/1.0.6.202308092312] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443
+2024-12-09 12:18:38,889 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
